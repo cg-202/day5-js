@@ -1,5 +1,5 @@
 // WE ARE NOT DONE HERE.
-import { sum, subtract } from "./v1.calculator.js";
+import { subtract, sum } from "./v1.calculator.js";
 import { multiply } from "./calculator.js";
 
 let output = sum(10, 20);
